@@ -1,0 +1,106 @@
+
+
+Bitrate
+
+Video videos/sample_1280x720.avibitrate: 1162 bps
+Video videos/sample_1280x720_H_264.mp4bitrate: 978 bps
+Video videos/sample_1280x720_H_265.mp4bitrate: 882 bps
+Video videos/sample_1280x720_MPEG_1.mpgbitrate: 1290 bps
+Video videos/sample_1280x720_MPEG_2.mpgbitrate: 1328 bps
+Video videos/sample_1280x720_MPEG_4.mp4bitrate: 1019 bps
+Video videos/sample_TV_640x480_MPEG_4.mp4bitrate: 300 bps
+
+
+********************************************************************************************************************************************************************************************************
+
+Compression ratio
+
+avi to videos/sample_1280x720_H_264.mp4 compression ratio: 84.14%
+avi to videos/sample_1280x720_H_265.mp4 compression ratio: 75.94%
+avi to videos/sample_1280x720_MPEG_1.mpg compression ratio: 110.85%
+avi to videos/sample_1280x720_MPEG_2.mpg compression ratio: 114.15%
+avi to videos/sample_1280x720_MPEG_4.mp4 compression ratio: 87.69%
+avi to videos/sample_TV_640x480_MPEG_4.mp4 compression ratio: 25.81%
+
+
+********************************************************************************************************************************************************************************************************
+
+Quality comparisson
+
+
+
+********************************************************************************************************************************************************************************************************
+
+Quality comparisson for sample_1280x720_H_264.mp4
+
+Reference frame resolution: Width=1280 Height=720 of nr#: 4390.0
+PSNR trigger value 30
+Frame: 0# : PSNR: 0dB, 
+Frame: 1# : PSNR: 0dB, 
+Frame: 2# : PSNR: 0dB, 
+Frame: 3# : PSNR: 0dB, 
+Frame: 4# : PSNR: 0dB, 
+Frame: 5# : PSNR: 0dB, 
+Frame: 6# : PSNR: 0dB, 
+Frame: 7# : PSNR: 7.099dB, MSSISM: R 3.0% G 0.03% B 0.02% 
+Frame: 8# : PSNR: 14.925dB, MSSISM: R 16.58% G 26.59% B 27.96% 
+Frame: 9# : PSNR: 14.995dB, MSSISM: R 18.07% G 28.59% B 29.96% 
+Frame: 10# : PSNR: 15.02dB, MSSISM: R 18.55% G 28.99% B 30.25% 
+Frame: 11# : PSNR: 15.085dB, MSSISM: R 18.59% G 28.38% B 29.37% 
+Frame: 12# : PSNR: 15.136dB, MSSISM: R 19.2% G 28.76% B 29.58% 
+Frame: 13# : PSNR: 14.717dB, MSSISM: R 15.79% G 25.09% B 26.04% 
+Frame: 14# : PSNR: 14.824dB, MSSISM: R 17.01% G 26.42% B 27.19% 
+Frame: 15# : PSNR: 14.79dB, MSSISM: R 16.79% G 26.01% B 27.0% 
+Frame: 16# : PSNR: 14.878dB, MSSISM: R 17.06% G 26.23% B 27.07% 
+Frame: 17# : PSNR: 15.016dB, MSSISM: R 17.11% G 25.82% B 26.8% 
+Frame: 18# : PSNR: 14.972dB, MSSISM: R 17.33% G 26.28% B 27.48% 
+Frame: 19# : PSNR: 15.01dB, MSSISM: R 18.42% G 28.29% B 29.45% 
+Frame: 20# : PSNR: 14.955dB, MSSISM: R 18.01% G 27.26% B 28.44% 
+Frame: 21# : PSNR: 14.919dB, MSSISM: R 18.17% G 27.29% B 28.52% 
+Frame: 22# : PSNR: 14.998dB, MSSISM: R 19.08% G 28.18% B 29.48% 
+Frame: 23# : PSNR: 15.045dB, MSSISM: R 19.38% G 28.31% B 29.73% 
+Frame: 24# : PSNR: 14.876dB, MSSISM: R 19.47% G 28.94% B 30.4% 
+Frame: 25# : PSNR: 14.923dB, MSSISM: R 19.5% G 28.82% B 30.26% 
+Frame: 26# : PSNR: 14.989dB, MSSISM: R 20.4% G 29.83% B 31.52% 
+Frame: 27# : PSNR: 14.95dB, MSSISM: R 20.23% G 29.71% B 31.43% 
+Frame: 28# : PSNR: 15.034dB, MSSISM: R 21.09% G 30.55% B 32.21% 
+Frame: 29# : PSNR: 14.934dB, MSSISM: R 20.88% G 30.06% B 31.9% 
+Frame: 30# : PSNR: 15.078dB, MSSISM: R 22.14% G 31.93% B 33.73% 
+Frame: 31# : PSNR: 14.899dB, MSSISM: R 21.97% G 34.22% B 35.88% 
+Frame: 32# : PSNR: 15.107dB, MSSISM: R 22.98% G 34.73% B 36.41% 
+Frame: 33# : PSNR: 14.866dB, MSSISM: R 22.8% G 33.94% B 35.73% 
+Frame: 34# : PSNR: 15.323dB, MSSISM: R 25.93% G 37.37% B 39.14% 
+Frame: 35# : PSNR: 15.416dB, MSSISM: R 26.7% G 38.31% B 40.28% 
+Frame: 36# : PSNR: 15.628dB, MSSISM: R 27.82% G 40.06% B 42.08% 
+Frame: 37# : PSNR: 15.65dB, MSSISM: R 28.77% G 41.09% B 42.99% 
+Frame: 38# : PSNR: 15.47dB, MSSISM: R 29.18% G 41.81% B 43.74% 
+Frame: 39# : PSNR: 15.641dB, MSSISM: R 29.49% G 42.41% B 44.42% 
+Frame: 40# : PSNR: 15.673dB, MSSISM: R 29.98% G 43.19% B 45.34% 
+Frame: 41# : PSNR: 15.637dB, MSSISM: R 29.93% G 43.05% B 45.1% 
+Frame: 42# : PSNR: 15.946dB, MSSISM: R 32.45% G 45.63% B 47.47% 
+Frame: 43# : PSNR: 15.95dB, MSSISM: R 30.75% G 46.6% B 48.41% 
+Frame: 44# : PSNR: 16.095dB, MSSISM: R 31.7% G 47.58% B 49.24% 
+Frame: 45# : PSNR: 16.232dB, MSSISM: R 31.76% G 46.97% B 49.02% 
+Frame: 46# : PSNR: 16.379dB, MSSISM: R 32.58% G 48.64% B 50.71% 
+Frame: 47# : PSNR: 16.599dB, MSSISM: R 33.85% G 49.46% B 51.47% 
+Frame: 48# : PSNR: 16.863dB, MSSISM: R 34.98% G 50.55% B 52.62% 
+Frame: 49# : PSNR: 16.96dB, MSSISM: R 35.61% G 51.75% B 53.68% 
+Frame: 50# : PSNR: 17.157dB, MSSISM: R 36.46% G 53.31% B 55.46% 
+Frame: 51# : PSNR: 17.387dB, MSSISM: R 37.79% G 54.66% B 56.62% 
+Frame: 52# : PSNR: 17.807dB, MSSISM: R 38.97% G 56.22% B 58.1% 
+Frame: 53# : PSNR: 18.015dB, MSSISM: R 39.95% G 57.54% B 59.25% 
+Frame: 54# : PSNR: 17.973dB, MSSISM: R 40.17% G 58.08% B 60.13% 
+Frame: 55# : PSNR: 18.348dB, MSSISM: R 40.86% G 59.63% B 61.54% 
+Frame: 56# : PSNR: 18.388dB, MSSISM: R 41.3% G 60.16% B 62.17% 
+Frame: 57# : PSNR: 18.549dB, MSSISM: R 41.59% G 61.51% B 63.36% 
+Frame: 58# : PSNR: 18.886dB, MSSISM: R 41.62% G 62.89% B 64.95% 
+Frame: 59# : PSNR: 19.444dB, MSSISM: R 41.94% G 65.12% B 66.94% 
+Frame: 60# : PSNR: 19.461dB, MSSISM: R 41.32% G 65.37% B 67.51% 
+Frame: 61# : PSNR: 20.409dB, MSSISM: R 43.26% G 67.57% B 69.48% 
+Frame: 62# : PSNR: 19.972dB, MSSISM: R 41.61% G 67.56% B 69.54% 
+Frame: 63# : PSNR: 20.664dB, MSSISM: R 43.8% G 69.58% B 70.98% 
+Frame: 64# : PSNR: 20.88dB, MSSISM: R 45.17% G 71.2% B 72.29% 
+Frame: 65# : PSNR: 21.904dB, MSSISM: R 47.83% G 73.4% B 73.83% 
+Frame: 66# : PSNR: 22.306dB, MSSISM: R 49.88% G 74.95% B 74.76% 
+Frame: 67# : PSNR: 23.054dB, MSSISM: R 53.88% G 76.31% B 76.5% 
+Frame: 68# : PSNR: 24.021dB, 
